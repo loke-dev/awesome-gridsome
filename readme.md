@@ -48,7 +48,8 @@
 ### Showcase
 - [Loke.dev](https://loke.dev) - Portfolio and blog made with Gridsome and Forestry
 - [Maizzle](https://maizzle.com/) - Maizzle.js documentation site (framework for rapid email prototyping)
-
+- [sergeyfilimonov.com](https://sergeyfilimonov.com) - personal website of a fullstack designer
+- [hr.netology.ru](https://hr.netology.ru) - online courses on HR for one of the biggest online education companies in Russia 
 
 ## Contribute
 
