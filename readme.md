@@ -1,36 +1,53 @@
+
+
+# awesome-gridsome [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+> A curated list of awesome things related to [Gridsome](https://gridsome.org)
+
 <p align="center">
   <br>
-    <img width="153" height="153" src="https://gridsome.org/logos/logo-normal.svg" />
+    <a href="https://gridsome.org"><img width="600" src="https://gridsome.org/logos/logo-normal.svg" /></a>
   <br>
   <br>
   <br>
 </p>
 
-# awesome-gridsome [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-
-> A curated list of awesome things related to Gridsome
-
-
 ## Contents
 
-- [Section](#section)
-- [Another Section](#another-section)
+- [Official Resources](#official-resources)
+- [Community](#community)
+- [Tutorials](#tutorials)
+- [Starters](#starters)
+- [Showcase](#showcase)
 
 
-## Section
+### Official Resources
 
-About this section. Optional. Keep this short and focus on the list.
+- [Documentation](https://gridsome.org/docs)
+- [Plugins](https://gridsome.org/plugins)
+- [Github repo](https://github.com/gridsome/gridsome)
 
-- [List item](http://example.com)
-- [List item](http://example.com)
 
+### Community
 
-## Another Section
+- [Discord](https://discordapp.com/invite/daeay6n)
+- [Twitter](https://mobile.twitter.com/gridsome)
 
-### Subsection
+### Tutorials
+- [Getting Started with Gridsome](https://scotch.io/tutorials/getting-started-with-gridsome)
 
-- [List item](http://example.com)
-- [List item](http://example.com)
+### Starters
+#### Official
+- [gridsome-starter-default](https://github.com/gridsome/gridsome-starter-default)
+- [gridsome-starter-blog](https://github.com/gridsome/gridsome-starter-blog)
+- [gridsome-starter-wordpress](https://github.com/gridsome/gridsome-starter-wordpress)
+
+#### Community
+- [gridsome-forestry-starter](https://github.com/itsnwa/gridsome-forestry-starter)
+
+### Showcase
+- [Loke.dev](https://loke.dev) - Portfolio and blog made with Gridsome and Forestry
+- [Maizzle](https://maizzle.com/) - Maizzle.js documentation site (framework for rapid email prototyping)
 
 
 ## Contribute
@@ -42,5 +59,5 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0)
 
-To the extent possible under law, Loke Carlsson has waived all copyright and
+To the extent possible under law, [Loke Carlsson](https://loke.dev) has waived all copyright and
 related or neighboring rights to this work.
