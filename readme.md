@@ -1,16 +1,14 @@
-
-
-# awesome-gridsome [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-
-> A curated list of awesome things related to [Gridsome](https://gridsome.org)
-
 <p align="center">
   <br>
-    <a href="https://gridsome.org"><img width="450" src="./awesome-gridsome-logo" /></a>
+    <a href="https://gridsome.org"><img width="300" src="./awesome-gridsome-logo.png" /></a>
   <br>
   <br>
   <br>
 </p>
+
+# awesome-gridsome [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+> A curated list of awesome things related to [Gridsome](https://gridsome.org)
 
 ## Contents
 
