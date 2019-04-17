@@ -6,7 +6,7 @@
 
 <p align="center">
   <br>
-    <a href="https://gridsome.org"><img width="600" src="https://gridsome.org/logos/logo-normal.svg" /></a>
+    <a href="https://gridsome.org"><img width="450" src="./awesome-gridsome-logo" /></a>
   <br>
   <br>
   <br>
