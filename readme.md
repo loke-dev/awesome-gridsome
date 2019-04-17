@@ -18,13 +18,11 @@
 - [Starters](#starters)
 - [Showcase](#showcase)
 
-
 ### Official Resources
 
 - [Documentation](https://gridsome.org/docs)
 - [Plugins](https://gridsome.org/plugins)
 - [Github repo](https://github.com/gridsome/gridsome)
-
 
 ### Community
 
@@ -46,13 +44,12 @@
 ### Showcase
 - [Loke.dev](https://loke.dev) - Portfolio and blog made with Gridsome and Forestry
 - [Maizzle](https://maizzle.com/) - Maizzle.js documentation site (framework for rapid email prototyping)
-- [sergeyfilimonov.com](https://sergeyfilimonov.com) - personal website of a fullstack designer
-- [hr.netology.ru](https://hr.netology.ru) - online courses on HR for one of the biggest online education companies in Russia 
+- [sergeyfilimonov.com](https://sergeyfilimonov.com) - Personal website of a fullstack designer
+- [hr.netology.ru](https://hr.netology.ru) - Online courses on HR for one of the biggest online education companies in Russia 
 
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
-
 
 ## License
 
