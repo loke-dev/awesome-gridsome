@@ -40,6 +40,7 @@
 
 #### Community
 - [gridsome-forestry-starter](https://github.com/itsnwa/gridsome-forestry-starter)
+- [gridsome-starter-docs](https://github.com/LokeCarlsson/gridsome-starter-docs)
 
 ### Showcase
 - [Loke.dev](https://loke.dev) - Portfolio and blog made with Gridsome and Forestry
