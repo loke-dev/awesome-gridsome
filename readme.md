@@ -42,6 +42,7 @@
 - [gridsome-forestry-starter](https://github.com/itsnwa/gridsome-forestry-starter)
 - [gridsome-starter-docs](https://github.com/LokeCarlsson/gridsome-starter-docs)
 - [gridsome-starter-bootstrap](https://github.com/LokeCarlsson/gridsome-starter-bootstrap)
+- [gridsome-starter-resume](https://github.com/LokeCarlsson/gridsome-starter-resume)
 
 ### Showcase
 - [Loke.dev](https://loke.dev) - Portfolio and blog made with Gridsome and Forestry
