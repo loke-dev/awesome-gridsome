@@ -37,6 +37,7 @@
 - [gridsome-starter-default](https://github.com/gridsome/gridsome-starter-default)
 - [gridsome-starter-blog](https://github.com/gridsome/gridsome-starter-blog)
 - [gridsome-starter-wordpress](https://github.com/gridsome/gridsome-starter-wordpress)
+- [gridsome-starter-contentful](https://github.com/gridsome/gridsome-starter-contentful)
 
 #### Community
 - [gridsome-forestry-starter](https://github.com/itsnwa/gridsome-forestry-starter)
