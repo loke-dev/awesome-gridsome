@@ -44,6 +44,7 @@
 - [gridsome-starter-docs](https://github.com/LokeCarlsson/gridsome-starter-docs)
 - [gridsome-starter-bootstrap](https://github.com/LokeCarlsson/gridsome-starter-bootstrap)
 - [gridsome-starter-resume](https://github.com/LokeCarlsson/gridsome-starter-resume)
+- [gridsome-starter-bleda](https://github.com/cossssmin/gridsome-starter-bleda)
 
 ### Showcase
 - [Loke.dev](https://loke.dev) - Portfolio and blog made with Gridsome and Forestry
