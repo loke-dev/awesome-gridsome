@@ -6,7 +6,7 @@
   <br>
 </p>
 
-# awesome-gridsome [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Gridsome [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of awesome things related to [Gridsome](https://gridsome.org)
 
@@ -40,12 +40,12 @@
 - [gridsome-starter-contentful](https://github.com/gridsome/gridsome-starter-contentful)
 
 #### Community
-- [gridsome-forestry-starter](https://github.com/itsnwa/gridsome-forestry-starter)
-- [gridsome-starter-docs](https://github.com/LokeCarlsson/gridsome-starter-docs)
-- [gridsome-starter-bootstrap](https://github.com/LokeCarlsson/gridsome-starter-bootstrap)
-- [gridsome-starter-resume](https://github.com/LokeCarlsson/gridsome-starter-resume)
-- [gridsome-starter-bleda](https://github.com/cossssmin/gridsome-starter-bleda)
-- [gridsome-blog](https://github.com/cosmicjs/gridsome-blog)
+- [gridsome-forestry-starter](https://github.com/itsnwa/gridsome-forestry-starter) - Portfolio/blog with forestry.
+- [gridsome-starter-docs](https://github.com/LokeCarlsson/gridsome-starter-docs) - Documentation starter.
+- [gridsome-starter-bootstrap](https://github.com/LokeCarlsson/gridsome-starter-bootstrap) - Portfolio/blog with bootstrap.
+- [gridsome-starter-resume](https://github.com/LokeCarlsson/gridsome-starter-resume) - Portfolio with bootstrap.
+- [gridsome-starter-bleda](https://github.com/cossssmin/gridsome-starter-bleda) - Blog with tailwind.
+- [gridsome-blog](https://github.com/cosmicjs/gridsome-blog) - Blog with cosmicjs.
 
 ### Showcase
 - [Loke.dev](https://loke.dev) - Portfolio and blog made with Gridsome and Forestry.
