@@ -12,11 +12,17 @@
 
 ## Contents
 
-- [Official Resources](#official-resources)
-- [Community](#community)
-- [Tutorials](#tutorials)
-- [Starters](#starters)
-- [Showcase](#showcase)
+- [Awesome Gridsome ![Awesome](https://awesome.re)](#Awesome-Gridsome-Awesomehttpsawesomere)
+  - [Contents](#Contents)
+    - [Official Resources](#Official-Resources)
+    - [Community](#Community)
+    - [Tutorials](#Tutorials)
+    - [Starters](#Starters)
+      - [Official](#Official)
+      - [Community](#Community-1)
+    - [Showcase](#Showcase)
+  - [Contribute](#Contribute)
+  - [License](#License)
 
 ### Official Resources
 
@@ -54,6 +60,7 @@
 - [hr.netology.ru](https://hr.netology.ru) - Online courses on HR for one of the biggest online education companies in Russia.
 - [Agregador FC](https://atilacamurca.github.io/agregador-fc/) - Website to help assemble a team to play [Cartola FC](https://cartolafc.globo.com/), a fantasy soccer game from Brazil. It shows statistics about the teams that will face each other.
 - [Iman Sugirman](https://imans.me/) - Personal website of a tutorial Laravel, Ruby on Rails, Wordpress, Cloud Server Indonesia Language.
+- [BarbaDev](https://barbadev.netlify.com/) - Personal blog from Fernando M. @packtpub author, built with Tailwind CSS and Gridsome.
 
 ## Contribute
 
