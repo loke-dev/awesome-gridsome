@@ -12,17 +12,11 @@
 
 ## Contents
 
-- [Awesome Gridsome ![Awesome](https://awesome.re)](#Awesome-Gridsome-Awesomehttpsawesomere)
-  - [Contents](#Contents)
-    - [Official Resources](#Official-Resources)
-    - [Community](#Community)
-    - [Tutorials](#Tutorials)
-    - [Starters](#Starters)
-      - [Official](#Official)
-      - [Community](#Community-1)
-    - [Showcase](#Showcase)
-  - [Contribute](#Contribute)
-  - [License](#License)
+- [Official Resources](#official-resources)
+- [Community](#community)
+- [Tutorials](#tutorials)
+- [Starters](#starters)
+- [Showcase](#showcase)
 
 ### Official Resources
 
