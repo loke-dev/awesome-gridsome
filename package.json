@@ -1,0 +1,29 @@
+{
+  "name": "awesome-gridsome",
+  "title": "awesome-gridsome",
+  "description": "A curated list of awesome gridsome resources and links.",
+  "version": "1.0.0",
+  "homepage": "http://github.com/lokecarlsson/awesome-gridsome",
+  "author": {
+    "name": "Loke Carlsson and contributors",
+    "url": "https://github.com/lokecarlsson/awesome-gridsome/graphs/contributors"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lokecarlsson/awesome-gridsome.git"
+  },
+  "bugs": "https://github.com/lokecarlsson/awesome-gridsome/issues",
+  "devDependencies": {
+    "chai": "latest",
+    "cheerio": "latest",
+    "marked": "latest",
+    "mocha": "latest"
+  },
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha -u bdd tests/test.js"
+  },
+  "keywords": ["gridsome", "awesome"]
+}
