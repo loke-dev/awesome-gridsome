@@ -31,6 +31,7 @@
 
 ### Tutorials
 - [Getting Started with Gridsome](https://scotch.io/tutorials/getting-started-with-gridsome)
+- [Working with Ghost and Gridsome](https://ghost.org/docs/api/v2/gridsome/)
 
 ### Starters
 #### Official
