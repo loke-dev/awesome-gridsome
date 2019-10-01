@@ -17,7 +17,6 @@
 - [Tutorials](#tutorials)
 - [Starters](#starters)
 - [Showcase](#showcase)
-- [Tutorials](#Tutorials)
 
 ### Official Resources
 
@@ -33,6 +32,7 @@
 ### Tutorials
 - [Getting Started with Gridsome](https://scotch.io/tutorials/getting-started-with-gridsome)
 - [Working with Ghost and Gridsome](https://ghost.org/docs/api/gridsome/)
+- [How Gridsome works with GitHub Pages](https://medium.com/jsessentials/how-gridsome-works-with-github-pages-aeacaf6f3622) -  To deploy the app using Github Pages and maintaining the source code in the same repository.
 
 ### Starters
 #### Official
@@ -57,9 +57,6 @@
 - [Agregador FC](https://atilacamurca.github.io/agregador-fc/) - Website to help assemble a team to play [Cartola FC](https://cartolafc.globo.com/), a fantasy soccer game from Brazil. It shows statistics about the teams that will face each other.
 - [Iman Sugirman](https://imansugirman.com/) - Personal website of a tutorial Laravel, Ruby on Rails, Wordpress, Cloud Server Indonesia Language.
 - [BarbaDev](https://barbadev.netlify.com/) - Personal blog from Fernando M. @packtpub author, built with Tailwind CSS and Gridsome.
-
-### Tutorials
-- [How Gridsome works with GitHub Pages](https://medium.com/jsessentials/how-gridsome-works-with-github-pages-aeacaf6f3622) -  To deploy the app using Github Pages and maintaining the source code in the same repository.
 
 ## Contribute
 
