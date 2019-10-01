@@ -32,6 +32,7 @@
 ### Tutorials
 - [Getting Started with Gridsome](https://scotch.io/tutorials/getting-started-with-gridsome)
 - [Working with Ghost and Gridsome](https://ghost.org/docs/api/gridsome/)
+- [How Gridsome works with GitHub Pages](https://medium.com/jsessentials/how-gridsome-works-with-github-pages-aeacaf6f3622) -  To deploy the app using Github Pages and maintaining the source code in the same repository.
 
 ### Starters
 #### Official
