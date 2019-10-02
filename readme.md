@@ -30,22 +30,18 @@
 - [Twitter](https://mobile.twitter.com/gridsome)
 
 ### Tutorials
-- [Getting Started with Gridsome](https://scotch.io/tutorials/getting-started-with-gridsome)
-- [Working with Ghost and Gridsome](https://ghost.org/docs/api/gridsome/)
-- [Building a Showcase with Gridsome and Netlify](https://medium.com/the-web-tub/building-a-showcase-site-with-gridsome-netlify-977d51432838)
-- [Building a Blog with Vue and Markdown Using Gridsome](https://www.telerik.com/blogs/building-a-blog-with-vue-and-markdown-using-gridsome)
-- [Setting Up Gridsome with Gitlab, NetlifyCMS, and Netlify](https://www.drewtown.dev/post/setting-up-gridsome-with-gitlab-netlifycms-and-netlify/)
-- [Quickstart Guide For a New Gridsome Project](https://lobotuerto.com/blog/quickstart-guide-for-a-new-gridsome-project/)
-- [Build a Blazing Fast Blog With Cosmic JS and Gridsome](https://cosmicjs.com/articles/build-a-blazing-fast-blog-with-cosmic-js-and-gridsome)
-- [Rebuilding My Blog In Vue](https://michaelnthiessen.com/rebuilding-blog-in-vue/)
-- [Getting Started](https://josephfitzsimmons.com/getting-started-with-gridsome-and-drupal-8/)
-- [Create A Blog With Gridsome and Vue](https://nordschool.com/create-a-blog-with-gridsome-and-vue/)
-- [Building a Blog with Gridsome: Creating the Blog](https://alligator.io/vuejs/gridsome-blog/)
-- [Hello, Gridsome!](https://dev.to/therealdanvega/hello-gridsome-2boo)
+
+- [Getting Started with Gridsome](https://scotch.io/tutorials/getting-started-with-gridsome) - A beginners guide to getting started working with Gridsome.
+- [Working with Ghost and Gridsome](https://ghost.org/docs/api/gridsome/) - Learn how to build a Gridsome frontend with Ghost as a headless CMS.
+- [How Gridsome works with GitHub Pages](https://medium.com/jsessentials/how-gridsome-works-with-github-pages-aeacaf6f3622) -  To deploy the app using Github Pages and maintaining the source code in the same repository.
+- [Building a Showcase with Gridsome and Netlify](https://medium.com/the-web-tub/building-a-showcase-site-with-gridsome-netlify-977d51432838) - Learn how to build a showcase website using Gridsome and deploy it to Netlify.
+- [Building a Blog with Vue and Markdown Using Gridsome](https://www.telerik.com/blogs/building-a-blog-with-vue-and-markdown-using-gridsome) - Learn how to build a blog using Markdown and GraphQL, and then deploy it to Netlify.
+- [Build a Blazing Fast Blog With Cosmic JS and Gridsome](https://cosmicjs.com/articles/build-a-blazing-fast-blog-with-cosmic-js-and-gridsome) - Learn how to build a Gridsome Blog with Cosmic JS as a headless CMS.
+
+### Video
 - [Video: Gridsome - Static File Generator for Vue](https://www.youtube.com/watch?v=uF3K3IpRfhE)
 - [Video: Gridsome Course - Learn Gatsby for VueJS](https://www.youtube.com/watch?v=jKmivk5bjo8)
 - [Video: Netlify CMS - Content Management System Using Gridsome](https://www.youtube.com/watch?v=ryP1RMA7P9Y)
-- [Video: Giddy for Gridsome: Learn how to use VueJS Static Site Generator Gridsome](https://www.youtube.com/watch?v=UEBTiMpvgas)
 - [Video: How To Setup A Gridsome Site With Wordpress](https://www.youtube.com/watch?v=vy39yigro_8)
 
 ### Starters
