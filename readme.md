@@ -30,8 +30,8 @@
 - [Twitter](https://mobile.twitter.com/gridsome)
 
 ### Tutorials
-- [Getting Started with Gridsome](https://scotch.io/tutorials/getting-started-with-gridsome)
-- [Working with Ghost and Gridsome](https://ghost.org/docs/api/gridsome/)
+- [Getting Started with Gridsome](https://scotch.io/tutorials/getting-started-with-gridsome) - A beginners guide to getting started working with Gridsome.
+- [Working with Ghost and Gridsome](https://ghost.org/docs/api/gridsome/) - Learn how to build a Gridsome frontend with Ghost as a headless CMS.
 - [How Gridsome works with GitHub Pages](https://medium.com/jsessentials/how-gridsome-works-with-github-pages-aeacaf6f3622) -  To deploy the app using Github Pages and maintaining the source code in the same repository.
 
 ### Starters
