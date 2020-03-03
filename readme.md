@@ -69,6 +69,7 @@
 - [BarbaDev](https://barbadev.netlify.com/) - Personal blog from Fernando M. @packtpub author, built with Tailwind CSS and Gridsome.
 - [Built with Gridsome](https://builtwithgridso.me) - Showcase of projects built with Gridsome.
 - [maciejkulczewski.de](https://maciejkulczewski.de) - Portfolio and showcase build with Gridsome.
+- [SmokeyFro](https://smokeyfro.com) - The personal portfolio of Chris Rault (aka SmokeyFro), a front-end designer and occasional entrepreneur working remotely from South Africa. See my [credits page](https://smokeyfro.com/about/credits) for a full list of plugins, sources and npm packages used.
 
 ## Contribute
 
