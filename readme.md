@@ -70,6 +70,7 @@
 - [BarbaDev](https://barbadev.netlify.com/) - Personal blog from Fernando M. @packtpub author, built with Tailwind CSS and Gridsome.
 - [Built with Gridsome](https://builtwithgridso.me) - Showcase of projects built with Gridsome.
 - [maciejkulczewski.de](https://maciejkulczewski.de) - Portfolio and showcase build with Gridsome.
+- [Narrandum](https://narrandum.com) - Customer journey mapping tool which uses Gridsome for its static site.
 
 ## Contribute
 
