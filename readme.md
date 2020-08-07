@@ -70,6 +70,7 @@
 - [Built with Gridsome](https://builtwithgridso.me) - Showcase of projects built with Gridsome.
 - [maciejkulczewski.de](https://maciejkulczewski.de) - Portfolio and showcase build with Gridsome.
 - [Narrandum](https://narrandum.com) - Customer journey mapping tool which uses Gridsome for its static site.
+- [SmokeyFro](https://smokeyfro.com) - The personal portfolio of Chris Rault (aka SmokeyFro).
 
 ## Contribute
 
