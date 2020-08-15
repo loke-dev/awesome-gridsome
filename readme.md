@@ -72,6 +72,7 @@
 - [Narrandum](https://narrandum.com) - Customer journey mapping tool which uses Gridsome for its static site.
 - [SmokeyFro](https://smokeyfro.com) - The personal portfolio of Chris Rault (aka SmokeyFro).
 - [Rasul Kireev - Digital Garden](https://rasulkireev.com) - Rasul's Personal Digital Garden
+- [Vue Themes](https://vuethemes.org/gridsome-themes) - Fast and responsive themes built with Tailwind CSS and Gridsome
 
 ## Contribute
 
