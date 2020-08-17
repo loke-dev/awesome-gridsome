@@ -39,8 +39,8 @@
 - [Build a Blazing Fast Blog With Cosmic JS and Gridsome](https://cosmicjs.com/articles/build-a-blazing-fast-blog-with-cosmic-js-and-gridsome) - Learn how to build a Gridsome Blog with Cosmic JS as a headless CMS.
 - [The Case for ButterCMS and Gridsome](https://buttercms.com/blog/the-case-for-buttercms-and-gridsome) - Learn how manage your Gridsome app with a headless CMS like ButterCMS.
 - [Multiple Graphql Queries on a Single Page with Gridsome](https://rasulkireev.com/multiple-gridsome-queries/) - Post on querying multiple models.
-- [Adding Scripts to Specific Pages with Gridsome / Vue](https://rasulkireev.com/gridsome-page-scripts/) - In this post I show how to add scripts to specific pages.
-- [Get started with Webmentions in Gridsome](https://pixelhop.io/writing/2020/05/get-started-with-webmentions-in-gridsome/) - Learn how to add Webmentions to your Gridsome powered static site....
+- [Adding Scripts to Specific Pages with Gridsome / Vue](https://rasulkireev.com/gridsome-page-scripts/) - Tutorial on how to add scripts to specific pages.
+- [Webmentions in Gridsome](https://pixelhop.io/writing/2020/05/get-started-with-webmentions-in-gridsome/) - How to add Webmentions to your Gridsome powered static site.
 
 ### Videos
 - [Video: Gridsome - Static File Generator for Vue](https://www.youtube.com/watch?v=uF3K3IpRfhE)
