@@ -59,6 +59,7 @@
 - [gridsome-starter-resume](https://github.com/LokeCarlsson/gridsome-starter-resume) - Portfolio with bootstrap.
 - [gridsome-starter-bleda](https://github.com/cossssmin/gridsome-starter-bleda) - Blog with tailwind.
 - [gridsome-blog](https://github.com/cosmicjs/gridsome-blog) - Blog with cosmicjs.
+- [Vue Themes](https://vuethemes.org/gridsome-themes) - Fast and responsive themes built with Tailwind CSS and Gridsome
 
 ### Showcase
 - [Loke.dev](https://loke.dev) - Portfolio and blog made with Gridsome and Forestry.
@@ -72,7 +73,6 @@
 - [Narrandum](https://narrandum.com) - Customer journey mapping tool which uses Gridsome for its static site.
 - [SmokeyFro](https://smokeyfro.com) - The personal portfolio of Chris Rault (aka SmokeyFro).
 - [Rasul Kireev - Digital Garden](https://rasulkireev.com) - Rasul's Personal Digital Garden
-- [Vue Themes](https://vuethemes.org/gridsome-themes) - Fast and responsive themes built with Tailwind CSS and Gridsome
 
 ## Contribute
 
