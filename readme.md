@@ -77,6 +77,8 @@
 - [SmokeyFro](https://smokeyfro.com) - The personal portfolio of Chris Rault (aka SmokeyFro).
 - [Rasul Kireev - Digital Garden](https://rasulkireev.com) - Rasul's Personal Digital Garden
 - [manascode.com](https://manascode.com) - Manascode's Personal blog
+- [timbenniks.nl](https://timbenniks.nl) - Tim Benniks's Personal blog
+
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
