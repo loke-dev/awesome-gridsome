@@ -65,7 +65,6 @@
 - [Vue Themes](https://vuethemes.org/gridsome-themes) - Fast and responsive themes built with Tailwind CSS and Gridsome
 
 ### Showcase
-- [Loke.dev](https://loke.dev) - Portfolio and blog made with Gridsome and Forestry.
 - [Maizzle](https://maizzle.com/) - Maizzle.js documentation site (framework for rapid email prototyping).
 - [sergeyfilimonov.com](https://sergeyfilimonov.com) - Personal website of a fullstack designer.
 - [hr.netology.ru](https://hr.netology.ru) - Online courses on HR for one of the biggest online education companies in Russia.
