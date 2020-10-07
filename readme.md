@@ -78,6 +78,7 @@
 - [Rasul Kireev - Digital Garden](https://rasulkireev.com) - Rasul's Personal Digital Garden
 - [manascode.com](https://manascode.com) - Manascode's Personal blog
 - [timbenniks.nl](https://timbenniks.nl) - Tim Benniks's Personal blog
+- [erdeminanc.com](https://www.erdeminanc.com) - Erdem İnanç's Portfolio website
 
 ## Contribute
 
