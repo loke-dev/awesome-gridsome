@@ -18,7 +18,7 @@
 - [Starters](#starters)
 - [Showcase](#showcase)
 
-### Official Resource
+### Official Resources
 
 - [Documentation](https://gridsome.org/docs)
 - [Plugins](https://gridsome.org/plugins)
