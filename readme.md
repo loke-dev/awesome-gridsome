@@ -41,7 +41,7 @@
 - [Multiple Graphql Queries on a Single Page with Gridsome](https://rasulkireev.com/multiple-gridsome-queries/) - Post on querying multiple models.
 - [Adding Scripts to Specific Pages with Gridsome / Vue](https://rasulkireev.com/gridsome-page-scripts/) - Tutorial on how to add scripts to specific pages.
 - [Webmentions in Gridsome](https://pixelhop.io/writing/2020/05/get-started-with-webmentions-in-gridsome/) - How to add Webmentions to your Gridsome powered static site.
-- [Build your Static Blog With Gridsome](https://mannes.tech/gridsome-tutorial/) - Learn to build a static gridsome blog with ESLint, TailwindCSS, Forestry, and Storybook.
+- [Build your Static Blog With Gridsome](https://mannes.tech/gridsome-tutorial/) - Learn to build a static Gridsome blog with ESLint, TailwindCSS, Forestry, and Storybook.
 
 ### Videos
 - [Video: Gridsome - Static File Generator for Vue](https://www.youtube.com/watch?v=uF3K3IpRfhE)
