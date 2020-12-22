@@ -78,6 +78,7 @@
 - [manascode.com](https://manascode.com) - Manascode's Personal blog
 - [timbenniks.nl](https://timbenniks.nl) - Tim Benniks's Personal blog
 - [erdeminanc.com](https://www.erdeminanc.com) - Erdem İnanç's Portfolio website
+- [florianmski.fr](https://florianmski.fr) - Florian Mierzejewski's website
 
 ## Contribute
 
