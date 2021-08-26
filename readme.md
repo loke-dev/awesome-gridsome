@@ -80,6 +80,7 @@
 - [timbenniks.nl](https://timbenniks.nl) - Tim Benniks's Personal blog
 - [erdeminanc.com](https://www.erdeminanc.com) - Erdem İnanç's Portfolio website
 - [florianmski.fr](https://florianmski.fr) - Florian Mierzejewski's website
+- [bibhutipoudyal.com.np](https://bibhutipoudyal.com.np) - Bibhuti Poudyal's website
 
 ## Contribute
 
