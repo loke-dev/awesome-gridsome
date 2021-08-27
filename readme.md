@@ -70,16 +70,12 @@
 - [sergeyfilimonov.com](https://sergeyfilimonov.com) - Personal website of a fullstack designer.
 - [Agregador FC](https://atilacamurca.github.io/agregador-fc/) - Website to help assemble a team to play [Cartola FC](https://cartolafc.globo.com/), a fantasy soccer game from Brazil. It shows statistics about the teams that will face each other.
 - [BarbaDev](https://barbadev.netlify.com/) - Personal blog from Fernando M. @packtpub author, built with Tailwind CSS and Gridsome.
-- [Built with Gridsome](https://builtwithgridso.me) - Showcase of projects built with Gridsome.
 - [maciejkulczewski.de](https://maciejkulczewski.de) - Portfolio and showcase build with Gridsome.
-- [Narrandum](https://narrandum.com) - Customer journey mapping tool which uses Gridsome for its static site.
 - [SmokeyFro](https://smokeyfro.com) - The personal portfolio of Chris Rault (aka SmokeyFro).
-- [Rasul Kireev - Digital Garden](https://rasulkireev.com) - Rasul's Personal Digital Garden
-- [manascode.com](https://manascode.com) - Manascode's Personal blog
-- [timbenniks.nl](https://timbenniks.nl) - Tim Benniks's Personal blog
-- [erdeminanc.com](https://www.erdeminanc.com) - Erdem İnanç's Portfolio website
-- [florianmski.fr](https://florianmski.fr) - Florian Mierzejewski's website
-- [bibhutipoudyal.com.np](https://bibhutipoudyal.com.np) - Bibhuti Poudyal's website
+- [Rasul Kireev - Digital Garden](https://rasulkireev.com) - Rasul's Personal Digital Garden.
+- [manascode.com](https://manascode.com) - Manascode's Personal blog.
+- [florianmski.fr](https://florianmski.fr) - Florian Mierzejewski's website.
+- [bibhutipoudyal.com.np](https://bibhutipoudyal.com.np) - Bibhuti Poudyal's website.
 
 ## Contribute
 
