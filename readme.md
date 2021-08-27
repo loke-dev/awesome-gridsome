@@ -68,7 +68,6 @@
 ### Showcase
 - [Maizzle](https://maizzle.com/) - Maizzle.js documentation site (framework for rapid email prototyping).
 - [sergeyfilimonov.com](https://sergeyfilimonov.com) - Personal website of a fullstack designer.
-- [hr.netology.ru](https://hr.netology.ru) - Online courses on HR for one of the biggest online education companies in Russia.
 - [Agregador FC](https://atilacamurca.github.io/agregador-fc/) - Website to help assemble a team to play [Cartola FC](https://cartolafc.globo.com/), a fantasy soccer game from Brazil. It shows statistics about the teams that will face each other.
 - [BarbaDev](https://barbadev.netlify.com/) - Personal blog from Fernando M. @packtpub author, built with Tailwind CSS and Gridsome.
 - [Built with Gridsome](https://builtwithgridso.me) - Showcase of projects built with Gridsome.
