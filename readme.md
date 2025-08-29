@@ -78,10 +78,11 @@
 - [Rasul Kireev - Digital Garden](https://rasulkireev.com) - Rasul's Personal Digital Garden.
 - [manascode.com](https://manascode.com) - Manascode's Personal blog.
 - [florianmski.fr](https://florianmski.fr) - Florian Mierzejewski's website.
-- [bibhutipoudyal.com.np](https://bibhutipoudyal.com.np) - Bibhuti Poudyal's website.
+- [bibhuti.me](https://bibhuti.me/) - Bibhuti Poudyal's website.
 - [Design Systems Repo](https://designsystemsrepo.com/) - A frequently updated collection of Design System examples, articles, tools and talks.
 - [Tech Jr Podcast](https://techjr.dev) - Website for the Tech Jr Podcast, a show about breaking into the tech industry and growing your skillset.
 - [1896 Gallery](https://1896gallery.com) - Website for Scottish art gallery showing art on display.
+
 
 ## Contribute
 
