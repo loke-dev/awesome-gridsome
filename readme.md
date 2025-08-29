@@ -42,6 +42,7 @@
 - [Adding Scripts to Specific Pages with Gridsome / Vue](https://rasulkireev.com/gridsome-page-scripts/) - Tutorial on how to add scripts to specific pages.
 - [Webmentions in Gridsome](https://pixelhop.io/writing/2020/05/get-started-with-webmentions-in-gridsome/) - How to add Webmentions to your Gridsome powered static site.
 - [Build your Static Blog With Gridsome](https://mannes.tech/gridsome-tutorial/) - Learn to build a static Gridsome blog with ESLint, TailwindCSS, Forestry, and Storybook.
+- [Deploy a Gridsome Site](https://developers.cloudflare.com/pages/framework-guides/deploy-a-gridsome-site/) - How to deploy a Gridsome site with Cloudflare Pages.
 
 ### Videos
 - [Video: Gridsome - Static File Generator for Vue](https://www.youtube.com/watch?v=uF3K3IpRfhE)
@@ -63,6 +64,8 @@
 - [gridsome-starter-resume](https://github.com/LokeCarlsson/gridsome-starter-resume) - Portfolio with bootstrap.
 - [gridsome-starter-bleda](https://github.com/cossssmin/gridsome-starter-bleda) - Blog with tailwind.
 - [gridsome-blog](https://github.com/cosmicjs/gridsome-blog) - Blog with cosmicjs.
+- [gridsome-portfolio-starter](https://github.com/drehimself/gridsome-portfolio-starter) - A simple portfolio starter theme for Gridsome.
+- [gridsome-shopify-starter](https://jamstackthemes.dev/theme/gridsome-shopify/) - A Gridsome starter for Shopify.
 - [Vue Themes](https://vuethemes.org/gridsome-themes) - Fast and responsive themes built with Tailwind CSS and Gridsome
 
 ### Showcase
@@ -76,6 +79,10 @@
 - [manascode.com](https://manascode.com) - Manascode's Personal blog.
 - [florianmski.fr](https://florianmski.fr) - Florian Mierzejewski's website.
 - [bibhuti.me](https://bibhuti.me/) - Bibhuti Poudyal's website.
+- [Design Systems Repo](https://designsystemsrepo.com/) - A frequently updated collection of Design System examples, articles, tools and talks.
+- [Tech Jr Podcast](https://techjr.dev) - Website for the Tech Jr Podcast, a show about breaking into the tech industry and growing your skillset.
+- [1896 Gallery](https://1896gallery.com) - Website for Scottish art gallery showing art on display.
+
 
 ## Contribute
 
